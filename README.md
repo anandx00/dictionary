@@ -21,13 +21,6 @@ This application is built with a focus on core functionality and user experience
 -   **Responsive Design:** The application features a clean and modern UI that works smoothly on both desktop and mobile devices. The layout adapts gracefully to different screen sizes, ensuring a seamless experience everywhere.
 -   **Direct Source Link:** Includes a link to the Wiktionary source for each entry. This provides an extra layer of trust and allows curious users to dive deeper into the word's etymology and usage.
 
-## Live Demo
-
-You can view a live demo of the project deployed on GitHub Pages:
-
-[**https://your-username.github.io/your-repo-name/**](https://your-username.github.io/your-repo-name/)
-
-*(**Instructions:** To deploy your own version, you can use free services like GitHub Pages, Vercel, or Netlify. For GitHub Pages, simply push your code to a repository and enable Pages in the "Settings" tab. Once deployed, replace the link above with your own.)*
 
 ## Getting Started
 
